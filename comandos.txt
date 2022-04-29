@@ -3,3 +3,6 @@ git config -- global  user.email	- configura el email del usuario
 git log					- nos permite ver todos los commit que hemos realizado
 git checkout -- (name file)		- revierte los cambios del archivo
 crear archivo .gitignore    crea un archivo archivo donde se listan los archivos/carpetas que se van a ignorar
+git branch                  lista todos las ramas
+git branch (name de rama)   crea una nueva rama
+git checkout (nombre de la rama) cambia a la rama especificada
